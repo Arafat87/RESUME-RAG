@@ -128,6 +128,3 @@ chunks = chunk_text(full_text, chunk_size=300, overlap=50)
 
 MIT
 
-## Author
-
-Built using Zo Computer
