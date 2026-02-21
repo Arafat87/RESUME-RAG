@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) system that lets recruiters query your resume conversationally instead of scanning bullet points.
 
-**Live Demo:** https://resume-rag-sani.zocomputer.io
+**Live Demo:** https://saniresume-rag.streamlit.app/
 
 ## Features
 
